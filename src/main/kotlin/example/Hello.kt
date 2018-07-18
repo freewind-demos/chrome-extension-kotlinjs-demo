@@ -1,7 +1,7 @@
 package example
 
-import JsObj
 import chrome.tabs.QueryInfo
+import kotlinjs.common.JsObj
 import kotlin.browser.document
 import kotlin.browser.window
 

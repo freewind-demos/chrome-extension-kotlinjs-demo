@@ -28,7 +28,3 @@ dependencies {
     compile "freewind.github.com:chrome-ts2kt:0.1.1"
     testCompile "org.jetbrains.kotlin:kotlin-test-js:$kotlin_version"
 }
-
-task wrapper(type: Wrapper) {
-    gradleVersion = "4.6"
-}

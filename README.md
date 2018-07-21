@@ -1,7 +1,7 @@
 Chrome Extension Using KotlinJs
 ================================
 
-A simple chrome extension to show current url, written with KotlinJs.
+A simple chrome extension written in KotlinJs.
 
 Build:
 

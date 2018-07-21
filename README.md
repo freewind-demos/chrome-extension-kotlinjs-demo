@@ -6,9 +6,7 @@ A simple chrome extension to show current url, written with KotlinJs.
 Build:
 
 ```
-./gradlew compileKotlin2Js
-cd extension
-npm install
+./gradlew kotlinJsBindler
 ```
 
 Install:
